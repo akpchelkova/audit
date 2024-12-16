@@ -1,0 +1,22 @@
+Event Log Report
+=================
+
+Total Events: 58496
+
+Event Type Statistics:
+  PROCESS_START: 253
+  FILE_CREATED: 1
+  FILE_MODIFIED: 57879
+  PROCESS_END: 363
+
+User Activity:
+  Unknown: 57880
+  unknown: 363
+  root: 253
+
+Events by Day of the Week:
+  Monday: 58496
+
+Source Statistics:
+  process: 616
+  file: 57880
